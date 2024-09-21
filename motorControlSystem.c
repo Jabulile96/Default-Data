@@ -1,5 +1,7 @@
 /**********************************************************************************************
 
+                                PMW Motor Control System
+
 To create a motor control system using C programming, we will simulate controlling a simple DC motor by adjusting its speed
 and direction using Pulse Width Modulation (PWM). This approach is commonly used in embedded systems for motor control, 
 where the PWM signal controls the power supplied to the motor. Below are the components and the setup required for this basic
